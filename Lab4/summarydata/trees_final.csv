@@ -1,0 +1,399 @@
+status,spc_latin,spc_common,health,count,diameter
+Alive,Acer,maple,Fair,1733,11.903990746096008
+Alive,Acer,maple,Good,4708,11.778864554539656
+Alive,Acer,maple,Poor,639,10.50943396226415
+Alive,Acer buergerianum,trident maple,Fair,20,9.75
+Alive,Acer buergerianum,trident maple,Good,87,7.724137931034483
+Alive,Acer buergerianum,trident maple,Poor,3,7.666666666666667
+Alive,Acer campestre,hedge maple,Fair,372,7.462365591397849
+Alive,Acer campestre,hedge maple,Good,2087,7.111217641418984
+Alive,Acer campestre,hedge maple,Poor,91,6.175824175824176
+Alive,Acer ginnala,Amur maple,Fair,309,8.012987012987013
+Alive,Acer ginnala,Amur maple,Good,1640,7.878048780487805
+Alive,Acer ginnala,Amur maple,Poor,100,7.36
+Alive,Acer griseum,paperbark maple,Fair,44,2.75
+Alive,Acer griseum,paperbark maple,Good,158,3.6962025316455698
+Alive,Acer griseum,paperbark maple,Poor,18,3.7222222222222223
+Alive,Acer negundo,boxelder,Fair,12,5.666666666666667
+Alive,Acer negundo,boxelder,Good,46,12.195652173913043
+Alive,Acer negundo,boxelder,Poor,6,8.0
+Alive,Acer nigrum,black maple,Fair,18,10.61111111111111
+Alive,Acer nigrum,black maple,Good,88,10.306818181818182
+Alive,Acer nigrum,black maple,Poor,8,9.125
+Alive,Acer palmatum,Japanese maple,Fair,182,6.361111111111111
+Alive,Acer palmatum,Japanese maple,Good,891,6.465011286681715
+Alive,Acer palmatum,Japanese maple,Poor,57,5.872727272727273
+Alive,Acer platanoides,Norway maple,Fair,9162,14.398471615720524
+Alive,Acer platanoides,Norway maple,Good,21248,14.41506236761591
+Alive,Acer platanoides,Norway maple,Poor,3779,13.709446943635882
+Alive,Acer platanoides 'Crimson King',crimson king maple,Fair,1137,10.0
+Alive,Acer platanoides 'Crimson King',crimson king maple,Good,4336,10.3592524227042
+Alive,Acer platanoides 'Crimson King',crimson king maple,Poor,450,8.94
+Alive,Acer pseudoplatanus,sycamore maple,Fair,560,13.114285714285714
+Alive,Acer pseudoplatanus,sycamore maple,Good,1991,15.511803114013059
+Alive,Acer pseudoplatanus,sycamore maple,Poor,180,11.672222222222222
+Alive,Acer rubrum,red maple,Fair,2911,11.039161800068705
+Alive,Acer rubrum,red maple,Good,13439,10.660068462568834
+Alive,Acer rubrum,red maple,Poor,896,9.827008928571429
+Alive,Acer saccharinum,silver maple,Fair,2256,21.363475177304963
+Alive,Acer saccharinum,silver maple,Good,9462,21.003594460302356
+Alive,Acer saccharinum,silver maple,Poor,559,19.88372093023256
+Alive,Acer saccharum,sugar maple,Fair,620,11.69032258064516
+Alive,Acer saccharum,sugar maple,Good,1990,11.779788838612369
+Alive,Acer saccharum,sugar maple,Poor,234,10.978632478632479
+Alive,Acer tataricum,tartar maple,Fair,27,7.185185185185185
+Alive,Acer tataricum,tartar maple,Good,114,5.7894736842105265
+Alive,Acer tataricum,tartar maple,Poor,12,5.583333333333333
+Alive,Acer truncatum,Shantung maple,Fair,7,4.0
+Alive,Acer truncatum,Shantung maple,Good,47,7.808510638297872
+Alive,Acer truncatum,Shantung maple,Poor,5,11.4
+Alive,Aesculus glabra,Ohio buckeye,Fair,15,7.0
+Alive,Aesculus glabra,Ohio buckeye,Good,52,10.0
+Alive,Aesculus glabra,Ohio buckeye,Poor,8,10.5
+Alive,Aesculus hippocastanum,horse chestnut,Fair,215,14.762790697674419
+Alive,Aesculus hippocastanum,horse chestnut,Good,788,14.041984732824428
+Alive,Aesculus hippocastanum,horse chestnut,Poor,93,12.365591397849462
+Alive,Aesculus x carnea,red horse chestnut,Fair,14,9.571428571428571
+Alive,Aesculus x carnea,red horse chestnut,Good,97,6.865979381443299
+Alive,Aesculus x carnea,red horse chestnut,Poor,5,12.2
+Alive,Ailanthus altissima,tree of heaven,Fair,161,12.577639751552795
+Alive,Ailanthus altissima,tree of heaven,Good,539,12.606679035250464
+Alive,Ailanthus altissima,tree of heaven,Poor,56,13.464285714285714
+Alive,Albizia julibrissin,mimosa,Fair,27,5.0
+Alive,Albizia julibrissin,mimosa,Good,130,6.3984375
+Alive,Albizia julibrissin,mimosa,Poor,6,7.833333333333333
+Alive,Alnus glutinosa,European alder,Fair,14,7.285714285714286
+Alive,Alnus glutinosa,European alder,Good,32,5.65625
+Alive,Alnus glutinosa,European alder,Poor,1,3.0
+Alive,Amelanchier,serviceberry,Fair,273,3.673992673992674
+Alive,Amelanchier,serviceberry,Good,1626,3.5522755227552274
+Alive,Amelanchier,serviceberry,Poor,133,3.308270676691729
+Alive,Betula nigra,river birch,Fair,81,7.246913580246914
+Alive,Betula nigra,river birch,Good,459,5.976034858387799
+Alive,Betula nigra,river birch,Poor,25,3.4
+Alive,Betula papyrifera,paper birch,Fair,86,4.558139534883721
+Alive,Betula papyrifera,paper birch,Good,420,5.069047619047619
+Alive,Betula papyrifera,paper birch,Poor,29,3.689655172413793
+Alive,Betula pendula,silver birch,Fair,59,4.9491525423728815
+Alive,Betula pendula,silver birch,Good,225,6.236607142857143
+Alive,Betula pendula,silver birch,Poor,16,4.6875
+Alive,Carpinus betulus,European hornbeam,Fair,296,4.195945945945946
+Alive,Carpinus betulus,European hornbeam,Good,1673,4.305622009569378
+Alive,Carpinus betulus,European hornbeam,Poor,130,3.123076923076923
+Alive,Carpinus caroliniana,American hornbeam,Fair,203,4.822660098522167
+Alive,Carpinus caroliniana,American hornbeam,Good,1221,5.065573770491803
+Alive,Carpinus caroliniana,American hornbeam,Poor,93,3.3010752688172045
+Alive,Carpinus japonica,Japanese hornbeam,Fair,62,4.161290322580645
+Alive,Carpinus japonica,Japanese hornbeam,Good,338,4.718100890207715
+Alive,Carpinus japonica,Japanese hornbeam,Poor,26,3.923076923076923
+Alive,Carya glabra,pignut hickory,Fair,19,13.736842105263158
+Alive,Carya glabra,pignut hickory,Good,76,16.039473684210527
+Alive,Carya glabra,pignut hickory,Poor,4,11.0
+Alive,Castanea mollissima,Chinese chestnut,Fair,21,8.0
+Alive,Castanea mollissima,Chinese chestnut,Good,150,5.753333333333333
+Alive,Castanea mollissima,Chinese chestnut,Poor,2,2.5
+Alive,Catalpa,catalpa,Fair,132,13.515151515151516
+Alive,Catalpa,catalpa,Good,372,14.766129032258064
+Alive,Catalpa,catalpa,Poor,47,12.638297872340425
+Alive,Cedrus atlantica,Atlas cedar,Fair,9,6.333333333333333
+Alive,Cedrus atlantica,Atlas cedar,Good,77,5.818181818181818
+Alive,Cedrus atlantica,Atlas cedar,Poor,1,4.0
+Alive,Cedrus deodara,Himalayan cedar,Fair,12,5.25
+Alive,Cedrus deodara,Himalayan cedar,Good,57,4.232142857142857
+Alive,Cedrus deodara,Himalayan cedar,Poor,3,2.0
+Alive,Celtis occidentalis,common hackberry,Fair,394,5.802030456852792
+Alive,Celtis occidentalis,common hackberry,Good,1856,6.446900269541779
+Alive,Celtis occidentalis,common hackberry,Poor,132,5.159090909090909
+Alive,Cercidiphyllum japonicum,katsura tree,Fair,220,4.759090909090909
+Alive,Cercidiphyllum japonicum,katsura tree,Good,581,5.223752151462995
+Alive,Cercidiphyllum japonicum,katsura tree,Poor,110,4.581818181818182
+Alive,Cercis canadensis,eastern redbud,Fair,594,4.7099494097807755
+Alive,Cercis canadensis,eastern redbud,Good,2927,4.309483053748716
+Alive,Cercis canadensis,eastern redbud,Poor,280,4.439285714285714
+Alive,Cercis reniformis,Oklahoma redbud,Fair,35,6.142857142857143
+Alive,Cercis reniformis,Oklahoma redbud,Good,173,4.965317919075145
+Alive,Cercis reniformis,Oklahoma redbud,Poor,11,4.0
+Alive,Chamaecyparis pisifera,false cypress,Fair,9,3.25
+Alive,Chamaecyparis pisifera,false cypress,Good,97,3.4583333333333335
+Alive,Chamaecyparis pisifera,false cypress,Poor,2,7.5
+Alive,Chamaecyparis thyoides,Atlantic white cedar,Fair,60,7.0
+Alive,Chamaecyparis thyoides,Atlantic white cedar,Good,263,5.752851711026616
+Alive,Chamaecyparis thyoides,Atlantic white cedar,Poor,32,6.4375
+Alive,Chionanthus retusus,Chinese fringetree,Fair,25,7.76
+Alive,Chionanthus retusus,Chinese fringetree,Good,203,4.073891625615763
+Alive,Chionanthus retusus,Chinese fringetree,Poor,6,7.5
+Alive,Cladrastis kentukea,Kentucky yellowwood,Fair,74,3.5945945945945947
+Alive,Cladrastis kentukea,Kentucky yellowwood,Good,371,4.606469002695418
+Alive,Cladrastis kentukea,Kentucky yellowwood,Poor,34,3.6176470588235294
+Alive,Cornus alternifolia,pagoda dogwood,Fair,46,4.717391304347826
+Alive,Cornus alternifolia,pagoda dogwood,Good,219,4.739726027397261
+Alive,Cornus alternifolia,pagoda dogwood,Poor,15,4.866666666666666
+Alive,Cornus florida,flowering dogwood,Fair,273,5.417582417582418
+Alive,Cornus florida,flowering dogwood,Good,1183,5.102542372881356
+Alive,Cornus florida,flowering dogwood,Poor,96,5.072916666666667
+Alive,Cornus kousa,kousa dogwood,Fair,51,5.78
+Alive,Cornus kousa,kousa dogwood,Good,235,4.68936170212766
+Alive,Cornus kousa,kousa dogwood,Poor,16,3.875
+Alive,Cornus mas,Cornelian cherry,Fair,137,3.7153284671532845
+Alive,Cornus mas,Cornelian cherry,Good,881,4.622020431328036
+Alive,Cornus mas,Cornelian cherry,Poor,48,3.5208333333333335
+Alive,Corylus colurna,Turkish hazelnut,Fair,65,5.8
+Alive,Corylus colurna,Turkish hazelnut,Good,223,4.739910313901345
+Alive,Corylus colurna,Turkish hazelnut,Poor,29,3.8275862068965516
+Alive,Cotinus coggygria,smoketree,Fair,10,5.7
+Alive,Cotinus coggygria,smoketree,Good,47,5.466666666666667
+Alive,Cotinus coggygria,smoketree,Poor,1,5.0
+Alive,Crataegus,hawthorn,Fair,470,3.923404255319149
+Alive,Crataegus,hawthorn,Good,2325,4.037037037037037
+Alive,Crataegus,hawthorn,Poor,193,3.948186528497409
+Alive,Crataegus crusgalli var. inermis,cockspur hawthorn,Fair,53,4.716981132075472
+Alive,Crataegus crusgalli var. inermis,cockspur hawthorn,Good,265,3.8150943396226413
+Alive,Crataegus crusgalli var. inermis,cockspur hawthorn,Poor,23,3.869565217391304
+Alive,Eucommia ulmoides,hardy rubber tree,Fair,113,3.495575221238938
+Alive,Eucommia ulmoides,hardy rubber tree,Good,740,3.735135135135135
+Alive,Eucommia ulmoides,hardy rubber tree,Poor,62,2.7096774193548385
+Alive,Fagus grandifolia,American beech,Fair,38,5.105263157894737
+Alive,Fagus grandifolia,American beech,Good,214,6.822429906542056
+Alive,Fagus grandifolia,American beech,Poor,21,5.095238095238095
+Alive,Fagus sylvatica,European beech,Fair,22,3.909090909090909
+Alive,Fagus sylvatica,European beech,Good,99,5.393939393939394
+Alive,Fagus sylvatica,European beech,Poor,4,4.75
+Alive,Fraxinus,ash,Fair,392,12.188775510204081
+Alive,Fraxinus,ash,Good,2115,14.109692671394798
+Alive,Fraxinus,ash,Poor,102,10.617647058823529
+Alive,Fraxinus americana,white ash,Fair,166,11.536144578313253
+Alive,Fraxinus americana,white ash,Good,897,13.096989966555183
+Alive,Fraxinus americana,white ash,Poor,58,9.362068965517242
+Alive,Fraxinus pennsylvanica,green ash,Fair,2599,12.298191612158522
+Alive,Fraxinus pennsylvanica,green ash,Good,13223,13.913010590015128
+Alive,Fraxinus pennsylvanica,green ash,Poor,428,10.654205607476635
+Alive,Fraxinus pennsylvanica,green ash,,1,16.0
+Alive,Ginkgo biloba,ginkgo,Fair,2780,7.933812949640288
+Alive,Ginkgo biloba,ginkgo,Good,17126,8.82512703697214
+Alive,Ginkgo biloba,ginkgo,Poor,1118,7.326475849731664
+Alive,Gleditsia triacanthos var. inermis,honeylocust,Fair,8572,9.511025551277564
+Alive,Gleditsia triacanthos var. inermis,honeylocust,Good,54501,10.393228736581337
+Alive,Gleditsia triacanthos var. inermis,honeylocust,Poor,1190,6.969722455845248
+Alive,Gymnocladus dioicus,Kentucky coffeetree,Fair,393,4.4910941475826975
+Alive,Gymnocladus dioicus,Kentucky coffeetree,Good,2835,4.767548500881834
+Alive,Gymnocladus dioicus,Kentucky coffeetree,Poor,136,3.7279411764705883
+Alive,Halesia diptera,two-winged silverbell,Fair,56,4.696428571428571
+Alive,Halesia diptera,two-winged silverbell,Good,158,4.449367088607595
+Alive,Halesia diptera,two-winged silverbell,Poor,7,2.7142857142857144
+Alive,Ilex,holly,Fair,14,5.571428571428571
+Alive,Ilex,holly,Good,118,5.914529914529915
+Alive,Ilex,holly,Poor,6,2.8333333333333335
+Alive,Juglans nigra,black walnut,Fair,49,10.081632653061224
+Alive,Juglans nigra,black walnut,Good,234,11.431623931623932
+Alive,Juglans nigra,black walnut,Poor,12,8.75
+Alive,Juniperus virginiana,eastern redcedar,Fair,116,5.852173913043479
+Alive,Juniperus virginiana,eastern redcedar,Good,946,4.398936170212766
+Alive,Juniperus virginiana,eastern redcedar,Poor,39,6.0
+Alive,Koelreuteria paniculata,golden raintree,Fair,500,4.544
+Alive,Koelreuteria paniculata,golden raintree,Good,3099,5.183989670755326
+Alive,Koelreuteria paniculata,golden raintree,Poor,120,3.8666666666666667
+Alive,Lagerstroemia,crepe myrtle,Fair,53,4.096153846153846
+Alive,Lagerstroemia,crepe myrtle,Good,371,4.291891891891892
+Alive,Lagerstroemia,crepe myrtle,Poor,18,3.9444444444444446
+Alive,Larix laricina,American larch,Fair,8,11.375
+Alive,Larix laricina,American larch,Good,37,8.378378378378379
+Alive,Larix laricina,American larch,Poor,1,4.0
+Alive,Liquidambar styraciflua,sweetgum,Fair,1271,10.022029897718332
+Alive,Liquidambar styraciflua,sweetgum,Good,9083,11.352604338729215
+Alive,Liquidambar styraciflua,sweetgum,Poor,303,7.871287128712871
+Alive,Liriodendron tulipifera,tulip-poplar,Fair,204,10.083743842364532
+Alive,Liriodendron tulipifera,tulip-poplar,Good,802,10.861809045226131
+Alive,Liriodendron tulipifera,tulip-poplar,Poor,70,7.057142857142857
+Alive,Maackia amurensis,Amur maackia,Fair,281,4.935714285714286
+Alive,Maackia amurensis,Amur maackia,Good,1811,5.464936499171729
+Alive,Maackia amurensis,Amur maackia,Poor,105,4.285714285714286
+Alive,Maclura pomifera,Osage-orange,Fair,3,7.666666666666667
+Alive,Maclura pomifera,Osage-orange,Good,26,6.2
+Alive,Magnolia,magnolia,Fair,80,4.4375
+Alive,Magnolia,magnolia,Good,577,5.604529616724738
+Alive,Magnolia,magnolia,Poor,42,3.9285714285714284
+Alive,Magnolia acuminata,cucumber magnolia,Fair,15,5.2
+Alive,Magnolia acuminata,cucumber magnolia,Good,142,6.7304964539007095
+Alive,Magnolia acuminata,cucumber magnolia,Poor,12,3.75
+Alive,Magnolia grandiflora,southern magnolia,Fair,12,4.083333333333333
+Alive,Magnolia grandiflora,southern magnolia,Good,114,5.043859649122807
+Alive,Magnolia grandiflora,southern magnolia,Poor,6,5.0
+Alive,Malus,crab apple,Fair,486,5.29835390946502
+Alive,Malus,crab apple,Good,2897,5.297372060857538
+Alive,Malus,crab apple,Poor,144,4.636363636363637
+Alive,Metasequoia glyptostroboides,dawn redwood,Fair,395,4.6455696202531644
+Alive,Metasequoia glyptostroboides,dawn redwood,Good,2426,5.60840890354493
+Alive,Metasequoia glyptostroboides,dawn redwood,Poor,199,4.472361809045226
+Alive,Morus,mulberry,Fair,218,12.724770642201834
+Alive,Morus,mulberry,Good,877,14.810285714285714
+Alive,Morus,mulberry,Poor,62,11.596774193548388
+Alive,Nyssa sylvatica,blackgum,Fair,51,3.372549019607843
+Alive,Nyssa sylvatica,blackgum,Good,222,3.6936936936936937
+Alive,Nyssa sylvatica,blackgum,Poor,15,2.2
+Alive,Ostrya virginiana,American hophornbeam,Fair,158,6.481012658227848
+Alive,Ostrya virginiana,American hophornbeam,Good,866,6.1547344110854505
+Alive,Ostrya virginiana,American hophornbeam,Poor,57,3.245614035087719
+Alive,Parrotia persica,Persian ironwood,Fair,45,3.311111111111111
+Alive,Parrotia persica,Persian ironwood,Good,219,3.219178082191781
+Alive,Parrotia persica,Persian ironwood,Poor,13,2.5384615384615383
+Alive,Paulownia tomentosa,empress tree,Fair,48,11.0625
+Alive,Paulownia tomentosa,empress tree,Good,180,11.53888888888889
+Alive,Paulownia tomentosa,empress tree,Poor,17,7.352941176470588
+Alive,Phellodendron amurense,Amur cork tree,Fair,38,10.0
+Alive,Phellodendron amurense,Amur cork tree,Good,121,9.413223140495868
+Alive,Phellodendron amurense,Amur cork tree,Poor,24,10.25
+Alive,Picea,spruce,Fair,43,7.5476190476190474
+Alive,Picea,spruce,Good,152,6.118421052631579
+Alive,Picea,spruce,Poor,7,5.428571428571429
+Alive,Picea abies,Norway spruce,Fair,64,8.984375
+Alive,Picea abies,Norway spruce,Good,271,8.636704119850187
+Alive,Picea abies,Norway spruce,Poor,20,11.473684210526315
+Alive,Picea pungens,blue spruce,Fair,17,8.352941176470589
+Alive,Picea pungens,blue spruce,Good,104,7.0576923076923075
+Alive,Picea pungens,blue spruce,Poor,5,8.0
+Alive,Pinus,pine,Fair,33,9.121212121212121
+Alive,Pinus,pine,Good,245,8.319672131147541
+Alive,Pinus,pine,Poor,11,8.0
+Alive,Pinus nigra,black pine,Fair,16,7.75
+Alive,Pinus nigra,black pine,Good,18,10.222222222222221
+Alive,Pinus nigra,black pine,Poor,3,13.0
+Alive,Pinus resinosa,red pine,Fair,10,8.5
+Alive,Pinus resinosa,red pine,Good,95,9.884210526315789
+Alive,Pinus resinosa,red pine,Poor,1,17.0
+Alive,Pinus rigida,pitch pine,Good,33,11.363636363636363
+Alive,Pinus strobus,white pine,Fair,36,14.166666666666666
+Alive,Pinus strobus,white pine,Good,155,11.974025974025974
+Alive,Pinus strobus,white pine,Poor,11,16.818181818181817
+Alive,Pinus sylvestris,Scots pine,Fair,3,9.333333333333334
+Alive,Pinus sylvestris,Scots pine,Good,21,10.238095238095237
+Alive,Pinus sylvestris,Scots pine,Poor,1,8.0
+Alive,Pinus virginiana,Virginia pine,Good,8,4.5
+Alive,Pinus virginiana,Virginia pine,Poor,2,2.0
+Alive,Platanus x acerifolia,London planetree,Fair,11505,18.442677096914384
+Alive,Platanus x acerifolia,London planetree,Good,73311,22.27282524179137
+Alive,Platanus x acerifolia,London planetree,Poor,2198,14.168334849863513
+Alive,Populus deltoides,eastern cottonwood,Fair,48,13.479166666666666
+Alive,Populus deltoides,eastern cottonwood,Good,209,18.272727272727273
+Alive,Populus deltoides,eastern cottonwood,Poor,19,12.789473684210526
+Alive,Populus grandidentata,bigtooth aspen,Fair,21,8.80952380952381
+Alive,Populus grandidentata,bigtooth aspen,Good,65,10.03076923076923
+Alive,Populus grandidentata,bigtooth aspen,Poor,8,5.5
+Alive,Populus tremuloides,quaking aspen,Fair,10,14.1
+Alive,Populus tremuloides,quaking aspen,Good,68,11.25
+Alive,Populus tremuloides,quaking aspen,Poor,5,7.2
+Alive,Prunus,cherry,Fair,3448,5.558294663573085
+Alive,Prunus,cherry,Good,24526,5.763976169101444
+Alive,Prunus,cherry,Poor,1305,4.763036809815951
+Alive,Prunus cerasifera,purple-leaf plum,Fair,1092,5.202752293577982
+Alive,Prunus cerasifera,purple-leaf plum,Good,5445,5.084512217527099
+Alive,Prunus cerasifera,purple-leaf plum,Poor,342,4.771929824561403
+Alive,Prunus serotina,black cherry,Fair,107,11.654205607476635
+Alive,Prunus serotina,black cherry,Good,459,8.004357298474945
+Alive,Prunus serotina,black cherry,Poor,41,8.926829268292684
+Alive,Prunus virginiana,'Schubert' chokecherry,Fair,717,4.813110181311018
+Alive,Prunus virginiana,'Schubert' chokecherry,Good,3929,4.940667175961294
+Alive,Prunus virginiana,'Schubert' chokecherry,Poor,242,4.384297520661157
+Alive,Pseudotsuga menziesii,Douglas-fir,Fair,10,7.6
+Alive,Pseudotsuga menziesii,Douglas-fir,Good,73,5.835616438356165
+Alive,Pseudotsuga menziesii,Douglas-fir,Poor,2,3.5
+Alive,Pyrus calleryana,Callery pear,Fair,8769,8.690237226277372
+Alive,Pyrus calleryana,Callery pear,Good,48073,9.041367542709699
+Alive,Pyrus calleryana,Callery pear,Poor,2089,8.249521072796934
+Alive,Quercus acutissima,sawtooth oak,Fair,229,6.2663755458515285
+Alive,Quercus acutissima,sawtooth oak,Good,1967,6.559063136456212
+Alive,Quercus acutissima,sawtooth oak,Poor,48,3.9583333333333335
+Alive,Quercus alba,white oak,Fair,263,5.749049429657795
+Alive,Quercus alba,white oak,Good,1331,7.993238166791886
+Alive,Quercus alba,white oak,Poor,92,4.608695652173913
+Alive,Quercus bicolor,swamp white oak,Fair,909,4.135313531353136
+Alive,Quercus bicolor,swamp white oak,Good,5434,4.8997973844170195
+Alive,Quercus bicolor,swamp white oak,Poor,255,3.4448818897637796
+Alive,Quercus coccinea,scarlet oak,Fair,307,11.009771986970684
+Alive,Quercus coccinea,scarlet oak,Good,1085,10.486635944700462
+Alive,Quercus coccinea,scarlet oak,Poor,73,7.027397260273973
+Alive,Quercus falcata,southern red oak,Fair,14,10.571428571428571
+Alive,Quercus falcata,southern red oak,Good,66,9.287878787878787
+Alive,Quercus falcata,southern red oak,Poor,3,3.6666666666666665
+Alive,Quercus imbricaria,shingle oak,Fair,127,4.283464566929134
+Alive,Quercus imbricaria,shingle oak,Good,876,5.239726027397261
+Alive,Quercus imbricaria,shingle oak,Poor,46,3.652173913043478
+Alive,Quercus macrocarpa,bur oak,Fair,88,4.7727272727272725
+Alive,Quercus macrocarpa,bur oak,Good,400,6.265
+Alive,Quercus macrocarpa,bur oak,Poor,27,3.740740740740741
+Alive,Quercus palustris,pin oak,Fair,6394,15.163929297669325
+Alive,Quercus palustris,pin oak,Good,45556,17.260948784931838
+Alive,Quercus palustris,pin oak,Poor,1235,11.246353322528362
+Alive,Quercus phellos,willow oak,Fair,360,7.935933147632312
+Alive,Quercus phellos,willow oak,Good,2725,13.065369078222549
+Alive,Quercus phellos,willow oak,Poor,99,6.777777777777778
+Alive,Quercus robur,English oak,Fair,237,5.780590717299578
+Alive,Quercus robur,English oak,Good,1363,7.148936170212766
+Alive,Quercus robur,English oak,Poor,44,4.386363636363637
+Alive,Quercus rubra,northern red oak,Fair,1309,10.0
+Alive,Quercus rubra,northern red oak,Good,6817,11.82555751173709
+Alive,Quercus rubra,northern red oak,Poor,274,6.795620437956204
+Alive,Quercus shumardii,Schumard's oak,Fair,240,9.116666666666667
+Alive,Quercus shumardii,Schumard's oak,Good,1187,10.619208087615839
+Alive,Quercus shumardii,Schumard's oak,Poor,60,6.766666666666667
+Alive,Quercus velutina,black oak,Fair,192,9.489583333333334
+Alive,Quercus velutina,black oak,Good,1092,10.651098901098901
+Alive,Quercus velutina,black oak,Poor,43,7.906976744186046
+Alive,Robinia pseudoacacia,black locust,Fair,342,11.883040935672515
+Alive,Robinia pseudoacacia,black locust,Good,1389,12.320374370050397
+Alive,Robinia pseudoacacia,black locust,Poor,53,10.849056603773585
+Alive,Salix babylonica,weeping willow,Fair,51,16.607843137254903
+Alive,Salix babylonica,weeping willow,Good,218,15.605504587155963
+Alive,Salix babylonica,weeping willow,Poor,13,15.846153846153847
+Alive,Sassafras albidum,sassafras,Fair,30,12.266666666666667
+Alive,Sassafras albidum,sassafras,Good,128,12.296875
+Alive,Sassafras albidum,sassafras,Poor,13,5.923076923076923
+Alive,Styphnolobium japonicum,Sophora,Fair,2890,8.890657439446366
+Alive,Styphnolobium japonicum,Sophora,Good,15832,9.403929993049852
+Alive,Styphnolobium japonicum,Sophora,Poor,616,7.201298701298701
+Alive,Styrax japonicus,Japanese snowbell,Fair,65,3.59375
+Alive,Styrax japonicus,Japanese snowbell,Good,296,3.4
+Alive,Styrax japonicus,Japanese snowbell,Poor,31,3.0
+Alive,Syringa pekinensis,Chinese tree lilac,Fair,72,3.1666666666666665
+Alive,Syringa pekinensis,Chinese tree lilac,Good,374,3.836898395721925
+Alive,Syringa pekinensis,Chinese tree lilac,Poor,16,2.8125
+Alive,Syringa reticulata,Japanese tree lilac,Fair,703,3.844950213371266
+Alive,Syringa reticulata,Japanese tree lilac,Good,3645,4.030752333882482
+Alive,Syringa reticulata,Japanese tree lilac,Poor,220,3.709090909090909
+Alive,Taxodium ascendens,pond cypress,Fair,36,2.5555555555555554
+Alive,Taxodium ascendens,pond cypress,Good,117,3.376068376068376
+Alive,Taxodium ascendens,pond cypress,Poor,28,2.142857142857143
+Alive,Taxodium distichum,bald cypress,Fair,165,5.213414634146342
+Alive,Taxodium distichum,bald cypress,Good,1016,4.69064039408867
+Alive,Taxodium distichum,bald cypress,Poor,80,3.65
+Alive,Thuja occidentalis,arborvitae,Fair,17,4.176470588235294
+Alive,Thuja occidentalis,arborvitae,Good,305,4.695081967213115
+Alive,Thuja occidentalis,arborvitae,Poor,6,3.6
+Alive,Tilia americana,American linden,Fair,1944,8.162551440329219
+Alive,Tilia americana,American linden,Good,10844,9.284699806326662
+Alive,Tilia americana,American linden,Poor,742,6.72911051212938
+Alive,Tilia cordata,littleleaf linden,Fair,4440,9.222522522522523
+Alive,Tilia cordata,littleleaf linden,Good,23582,10.368702290076335
+Alive,Tilia cordata,littleleaf linden,Poor,1720,7.769947582993593
+Alive,Tilia tomentosa,silver linden,Fair,899,8.439377085650722
+Alive,Tilia tomentosa,silver linden,Good,6833,9.544642857142858
+Alive,Tilia tomentosa,silver linden,Poor,263,6.55893536121673
+Alive,Tsuga canadensis,eastern hemlock,Fair,20,4.45
+Alive,Tsuga canadensis,eastern hemlock,Good,59,5.810344827586207
+Alive,Tsuga canadensis,eastern hemlock,Poor,9,3.4444444444444446
+Alive,Ulmus americana,American elm,Fair,1295,11.261978361669243
+Alive,Ulmus americana,American elm,Good,6412,12.180371352785146
+Alive,Ulmus americana,American elm,Poor,268,10.037313432835822
+Alive,Ulmus parvifolia,Chinese elm,Fair,691,6.868306801736614
+Alive,Ulmus parvifolia,Chinese elm,Good,4493,7.565227070347284
+Alive,Ulmus parvifolia,Chinese elm,Poor,161,5.701863354037267
+Alive,Ulmus pumila,Siberian elm,Fair,274,14.069343065693431
+Alive,Ulmus pumila,Siberian elm,Good,1270,10.951968503937008
+Alive,Ulmus pumila,Siberian elm,Poor,51,10.588235294117647
+Alive,Zelkova serrata,Japanese zelkova,Fair,3191,6.736990595611285
+Alive,Zelkova serrata,Japanese zelkova,Good,25285,8.078079265880865
+Alive,Zelkova serrata,Japanese zelkova,Poor,782,5.563938618925831
+Alive,,,Good,4,13.0
+Alive,,,Poor,1,11.0
+Dead,Gleditsia triacanthos var. inermis,honeylocust,,1,12.0
+Dead,,,,13960,5.4920166858458
+Stump,,,,17654,16.7504814772856
